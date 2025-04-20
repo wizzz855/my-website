@@ -1,0 +1,15 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Website</title>
+  <style>
+    body { font-family: Arial; background-color: #f2f2f2; text-align: center; }
+    h1 { color: #333; }
+  </style>
+</head>
+<body>
+  <h1>Hello, world!</h1>
+  <p>This is my first website 🎉</p>
+</body>
+</html>
